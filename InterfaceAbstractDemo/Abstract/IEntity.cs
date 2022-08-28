@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP2
+namespace InterfaceAbstractDemo.Abstract
 {
-    class CustomerManager
+   public interface IEntity
     {
-        public void Add()
-        {
-            
-        }
     }
 }
